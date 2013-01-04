@@ -36,4 +36,4 @@ ALTER DATABASE OPEN;
 ALTER TABLESPACE TEMP ADD TEMPFILE 'E:\styrsys\ORADATA\XE\TEMP.DBF';
 
 --
--- Bytt ut e:\styrsys med katalogen som er satt opp på server maskinen hvor oracle er installert
+-- -----------------Bytt ut e:\styrsys med katalogen som er satt opp på server maskinen hvor oracle er installert
